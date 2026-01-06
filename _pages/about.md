@@ -144,6 +144,8 @@ Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Jiachao Gong, Mingda Wu, Ming Sun, Chao Zho
 #### 📑 Other Papers
 - ``AAAI 2026`` [Efficient Reinforcement Learning for Zero-Shot Coordination in Evolving Games](https://arxiv.org/abs/2511.11083) <span style="color:red"></span> <br>
 Bingyu Hui, Lebin Yu, Quanming Yao, **Yunpeng Qu**, Xudong Zhang, Jian Wang
+- ``AAAI 2026`` [Efficient Reinforcement Learning for Zero-Shot Coordination in Evolving Games](https://arxiv.org/abs/2511.11083) <span style="color:red"></span> <br>
+Bingyu Hui, Lebin Yu, Quanming Yao, **Yunpeng Qu**, Xudong Zhang, Jian Wang
 
 
 # 🎖 Honors and Awards
