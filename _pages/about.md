@@ -24,13 +24,13 @@ Before that, I also received my Bachelor's degree from the [Department of Electr
 My current research interests and past experience can be summarized as follows:
 - 1️⃣ Generative Models: Visual Representation and Generation;
 - 2️⃣ Low-level Vision: Visual Low-level Understanding, Processing, and Enhancement;
-- 3️⃣ Wireless Communications: AI for Physical Layer.1111
+- 3️⃣ Wireless Communications: AI for Physical Layer.
 
 
 # 📝 Publications
 
 ### Visual Generation and Enhancement
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/varsr.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/varsr.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ICML 2025**] [Visual Autoregressive Modeling for Image Super-Resolution](https://arxiv.org/abs/2501.18993) \\
@@ -42,7 +42,7 @@ My current research interests and past experience can be summarized as follows:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/xpsr.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/xpsr.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ECCV 2024**] [XPSR: Cross-modal Priors for Diffusion-based Image Super-resolution](https://link.springer.com/chapter/10.1007/978-3-031-73247-8_17) \\
@@ -56,7 +56,7 @@ My current research interests and past experience can be summarized as follows:
 
 ### Low-level Understanding
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/kvq.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/kvq.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CVPR 2025**] [KVQ: Boosting Video Quality Assessment via Saliency-guided Local Perception](https://openaccess.thecvf.com/content/CVPR2025/html/Qu_KVQ_Boosting_Video_Quality_Assessment_via_Saliency-guided_Local_Perception_CVPR_2025_paper.html) \\
@@ -68,10 +68,10 @@ My current research interests and past experience can be summarized as follows:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/qptv2.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/qptv2.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ACM MM 2024**] [QPT V2: Masked Image Modeling Advances Visual Scoring](https://dl.acm.org/doi/jpg/10.1145/3664647.3680721) \\
+[**ACM MM 2024**] [QPT V2: Masked Image Modeling Advances Visual Scoring](https://dl.acm.org/doi/png/10.1145/3664647.3680721) \\
 Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Mingda Wu, Ming Sun, Chao Zhou, Jihong Zhu
 
 [**Code**](https://github.com/KeiChiTse/QPT-V2) &nbsp;
@@ -80,10 +80,10 @@ Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Mingda Wu, Ming Sun, Chao Zhou, Jihong Zhu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/kvqdata.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/kvqdata.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**CVPR 2024**] [KVQ: Kwai Video Quality Assessment for Short-form Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_KVQ_Kwai_Video_Quality_Assessment_for_Short-form_Videos_CVPR_2024_paper.jpg) \\
+[**CVPR 2024**] [KVQ: Kwai Video Quality Assessment for Short-form Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_KVQ_Kwai_Video_Quality_Assessment_for_Short-form_Videos_CVPR_2024_paper.png) \\
 Yiting Lu, Xin Li, Yajing Pei, Kun Yuan, Qizhi Xie, **Yunpeng Qu**, Ming Sun, Chao Zhou, Zhibo Chen
 
 [**Code**](https://lixinustc.github.io/projects/KVQ/) &nbsp;
@@ -92,17 +92,17 @@ Yiting Lu, Xin Li, Yajing Pei, Kun Yuan, Qizhi Xie, **Yunpeng Qu**, Ming Sun, Ch
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/score.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/score.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Preprint**] [Bridging Video Quality Scoring and Justification via Large Multimodal Models](https://arxiv.org/jpg/2506.21011) \\
+[**Preprint**] [Bridging Video Quality Scoring and Justification via Large Multimodal Models](https://arxiv.org/png/2506.21011) \\
 Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Jiachao Gong, Mingda Wu, Ming Sun, Chao Zhou, Jihong Zhu
 
 </div>
 </div>
 
 ### AI for Wireless Communications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2024</div><img src='images/tldnn.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2024</div><img src='images/tldnn.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**IEEE Transactions on Vehicular Technology**] [Enhancing automatic modulation recognition through robust global feature extraction](https://ieeexplore.ieee.org/abstract/document/10744587/) \\
@@ -114,7 +114,7 @@ Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Jiachao Gong, Mingda Wu, Ming Sun, Chao Zho
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCL 2024</div><img src='images/clasp.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCL 2024</div><img src='images/clasp.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**IEEE Wireless Communications Letters**] [Contrastive Language-Signal Prediction for Automatic Modulation Recognition](https://ieeexplore.ieee.org/abstract/document/10684251) \\
@@ -123,19 +123,19 @@ Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Jiachao Gong, Mingda Wu, Ming Sun, Chao Zho
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCL 2025</div><img src='images/cacd.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCL 2025</div><img src='images/cacd.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**IEEE Wireless Communications Letters**] [Channel-Aware Multi-Domain Feature Extraction for Automatic Modulation Recognition in MIMO Systems](https://arxiv.org/jpg/2512.04899) \\
+[**IEEE Wireless Communications Letters**] [Channel-Aware Multi-Domain Feature Extraction for Automatic Modulation Recognition in MIMO Systems](https://arxiv.org/png/2512.04899) \\
 **Yunpeng Qu**, Yazhou Sun, Bingyu Hui, Jintao Wang, Jian Wang
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VTC 2025-Fall</div><img src='images/hifi.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VTC 2025-Fall</div><img src='images/hifi.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**IEEE Conference on Vehicular Technology**] [Hierarchical Feature Integration for Multi-Signal Automatic Modulation Recognition](https://arxiv.org/jpg/2511.23258) \\
+[**IEEE Conference on Vehicular Technology**] [Hierarchical Feature Integration for Multi-Signal Automatic Modulation Recognition](https://arxiv.org/png/2511.23258) \\
 **Yunpeng Qu**, Yazhou Sun, Bingyu Hui, Jian Wang
 
 </div>
