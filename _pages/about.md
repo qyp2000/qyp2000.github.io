@@ -135,7 +135,7 @@ Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Jiachao Gong, Mingda Wu, Ming Sun, Chao Zho
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VTC 2025-Fall</div><img src='images/hifi.jpg' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**IEEE Vehicular Technology Conference**] [Hierarchical Feature Integration for Multi-Signal Automatic Modulation Recognition](https://arxiv.org/pdf/2511.23258) \\
+[**IEEE Conference on Vehicular Technology**] [Hierarchical Feature Integration for Multi-Signal Automatic Modulation Recognition](https://arxiv.org/pdf/2511.23258) \\
 **Yunpeng Qu**, Yazhou Sun, Bingyu Hui, Jian Wang
 
 </div>
@@ -152,12 +152,12 @@ Bingyu Hui, Lebin Yu, Quanming Yao, **Yunpeng Qu**, Xudong Zhang, Jian Wang
 
 # 🎖 Honors and Awards
 - *2022,2024,2025* Comprehensive Scholarship for Ph.D. Student, Tsinghua University.
-- *2022* Finalist Prize at the 1st Construction Robot Innovtion Competition, Guoqiang Research Institute, Tsinghua University.
+- *2022* Finalist Prize at the 1st Construction Robot Innovation Competition, Guoqiang Research Institute, Tsinghua University.
 - *2020* **🥈Second place** at the Drone Challenge, 21st China Robot Competition & RoboCup China Open.
 - *2020* Comprehensive Scholarship for Undergraduate Student, Tsinghua University.
 - *2019* “Hao Du Shu” Scholarship for Undergraduate Student, Tsinghua University.
 - *2019* Bronze Award for Student Social Practice, Tsinghua University.
-- *2019* Third-class Award of North China Regional Competition, National University Students Intelligent Car Race.
+- *2019* Third-class Award of North China Regional Competition, National University Students' Intelligent Car Race.
 - *2018,2019* Arts and Cultural Excellence Scholarship for Undergraduate Student, Tsinghua University. 
 
 
