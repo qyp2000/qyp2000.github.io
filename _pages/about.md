@@ -80,7 +80,7 @@ Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Mingda Wu, Ming Sun, Chao Zhou, Jihong Zhu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/kvq.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/kvq.jpg' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CVPR 2024**] [KVQ: Kwai Video Quality Assessment for Short-form Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_KVQ_Kwai_Video_Quality_Assessment_for_Short-form_Videos_CVPR_2024_paper.pdf) \\
@@ -132,7 +132,7 @@ Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Jiachao Gong, Mingda Wu, Ming Sun, Chao Zho
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VTC2025-Fall</div><img src='images/hifi.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VTC 2025-Fall</div><img src='images/hifi.jpg' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**IEEE Vehicular Technology Conference**] [Hierarchical Feature Integration for Multi-Signal Automatic Modulation Recognition](https://arxiv.org/pdf/2511.23258) \\
