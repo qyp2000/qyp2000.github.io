@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Fifth-year Ph.D. candidate in the [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) (THU) since 2021, under the supervision of [Prof. Jian Wang].
+I am a Fifth-year Ph.D. candidate in the [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) (THU) since 2021, under the supervision of [Prof. Jian Wang](https://web.ee.tsinghua.edu.cn/wangjian1/zh_CN/index.htm).
+I am also very fortunate to collaborate with [Prof. Jintao Wang](https://scholar.google.com/citations?user=0VH0ULYAAAAJ&hl=zh-CN&oi=ao).
 Before that, I received my Bachelor's degree from the Department of Electronic Engineering at Tsinghua University.
 
 My current research interests and past experience can be summarized as follows:
-- 1️⃣ Generative Models: Controllable Visual Generation;
-- 2️⃣ Low-level Vision: visual low-level understanding, processing, and enhancement;
+- 1️⃣ Generative Models: Visual Representation Generation;
+- 2️⃣ Low-level Vision: Visual Low-level understanding, Processing, and Enhancement;
 - 3️⃣ Wireless Communications: AI for Physical Layer.
 
 
@@ -43,8 +44,14 @@ My current research interests and past experience can be summarized as follows:
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021,2022,2024* Comprehensive Scholarship for Ph.D. Student, Tsinghua University.
+- *2022* Finalist Prize at the 1st Construction Robot Innovtion Competition, Guoqiang Research Institute, Tsinghua University.
+- *2020* **🥈Second place** at the Drone Challenge, 21st China Robot Competition & RoboCup China Open.
+- *2020* Comprehensive Scholarship for Undergraduate Student, Tsinghua University.
+- *2019* “Hao Du Shu” Scholarship for Undergraduate Student, Tsinghua University.
+- *2019* Bronze Award for Student Social Practice, Tsinghua University.
+- *2019* Third-class Award of North China Regional Competition, National University Students Intelligent Car Race.
+- *2018,2019* Arts and Cultural Excellence Scholarship for Undergraduate Student, Tsinghua University. 
 
 # 📖 Educations
 - *2021.09 - now:*  Ph.D. Candidate in the Department of Electronic Engineering, Tsinghua University, China.
