@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yunpeng Qu (屈云鹏)"
-  avatar           : "images/qyp.png"
+  name             : "Yunpeng Qu"
+  avatar           : "images/qyp.jpg"
   bio              : "Focusing on visual generation model."
   location         : "Beijing, China"
   employer         : "Tsinghua University"
