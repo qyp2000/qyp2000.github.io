@@ -22,7 +22,7 @@ I am also very fortunate to collaborate with [Prof. Jintao Wang](https://scholar
 Before that, I received my Bachelor's degree from the Department of Electronic Engineering, Tsinghua University.
 
 My current research interests and past experience can be summarized as follows:
-- 1️⃣ Generative Models: Visual Representation Generation;
+- 1️⃣ Generative Models: Visual Representation and Generation;
 - 2️⃣ Low-level Vision: Visual Low-level understanding, Processing, and Enhancement;
 - 3️⃣ Wireless Communications: AI for Physical Layer.
 
@@ -37,11 +37,36 @@ My current research interests and past experience can be summarized as follows:
 **Yunpeng Qu**, Kun Yuan, Jinhua Hao, Kai Zhao, Qizhi Xie, Ming Sun, Chao Zhou
 
 [**Code**](https://github.com/quyp2000/VARSR) &nbsp;
-[![](https://img.shields.io/github/stars/sallymmx/m2clip?style=social&label=Code+Stars)](https://github.com/quyp2000/VARSR)
+[![](https://img.shields.io/github/stars/quyp2000/VARSR?style=social&label=Code+Stars)](https://github.com/quyp2000/VARSR)
 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/xpsr.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ECCV 2024**] [XPSR: Cross-modal Priors for Diffusion-based Image Super-resolution](https://link.springer.com/chapter/10.1007/978-3-031-73247-8_17) \\
+**Yunpeng Qu**, Kun Yuan, Kai Zhao, Qizhi Xie, Jinhua Hao, Ming Sun, Chao Zhou
+
+[**Code**](https://github.com/quyp2000/XPSR) &nbsp;
+[![](https://img.shields.io/github/stars/quyp2000/XPSR?style=social&label=Code+Stars)](https://github.com/quyp2000/XPSR)
+
+</div>
+</div>
+
+## Low-level Understanding
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/kvq.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CVPR 2025**] [KVQ: Boosting Video Quality Assessment via Saliency-guided Local Perception](https://openaccess.thecvf.com/content/CVPR2025/html/Qu_KVQ_Boosting_Video_Quality_Assessment_via_Saliency-guided_Local_Perception_CVPR_2025_paper.html) \\
+**Yunpeng Qu**, Kun Yuan, Qizhi Xie, Ming Sun, Chao Zhou, Jian Wang
+
+[**Code**](https://github.com/qyp2000/KVQ) &nbsp;
+[![](https://img.shields.io/github/stars/qyp2000/KVQ?style=social&label=Code+Stars)](https://github.com/qyp2000/KVQ)
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021,2022,2024* Comprehensive Scholarship for Ph.D. Student, Tsinghua University.
