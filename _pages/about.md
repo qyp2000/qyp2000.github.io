@@ -36,8 +36,8 @@ My current research interests and past experience can be summarized as follows:
 [**ICML 2025**] [Visual Autoregressive Modeling for Image Super-Resolution](https://arxiv.org/abs/2501.18993) \\
 **Yunpeng Qu**, Kun Yuan, Jinhua Hao, Kai Zhao, Qizhi Xie, Ming Sun, Chao Zhou
 
-[**Code**]([https://github.com/sallymmx/ActionCLIP](https://github.com/quyp2000/VARSR)) &nbsp;
-[![](https://img.shields.io/github/stars/sallymmx/ActionCLIP?style=social&label=Code+Stars)]([https://github.com/sallymmx/ActionCLIP](https://github.com/quyp2000/VARSR))
+[**Code**](https://github.com/quyp2000/VARSR) &nbsp;
+[![](https://img.shields.io/github/stars/sallymmx/m2clip?style=social&label=Code+Stars)](https://github.com/quyp2000/VARSR)
 
 </div>
 </div>
