@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a Fifth-year Ph.D. candidate in the [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) (THU) since 2021, under the supervision of [Prof. Jian Wang](https://web.ee.tsinghua.edu.cn/wangjian1/zh_CN/index.htm).
-I am also very fortunate to collaborate with [Prof. Jintao Wang](https://scholar.google.com/citations?user=0VH0ULYAAAAJ&hl=zh-CN&oi=ao) and  [Prof. Yuan Shen](https://oa.ee.tsinghua.edu.cn/~shenyuan/) during in my Ph.D. study.
+I am also very fortunate to collaborate with [Prof. Jintao Wang](https://scholar.google.com/citations?user=0VH0ULYAAAAJ&hl=zh-CN&oi=ao) and [Prof. Yuan Shen](https://oa.ee.tsinghua.edu.cn/~shenyuan/) during in my Ph.D. study.
 Before that, I received my Bachelor's degree from the Department of Electronic Engineering, Tsinghua University.
 
 My current research interests and past experience can be summarized as follows:
