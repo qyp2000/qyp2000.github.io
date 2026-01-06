@@ -27,7 +27,7 @@ My current research interests and past experience can be summarized as follows:
 - 3️⃣ Wireless Communications: AI for Physical Layer.
 
 
-# 📝 Selected Publications
+# 📝 Publications
 
 ## Visual Generation and Enhancement
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/varsr.jpg' alt="sym" width="98%"></div></div>
@@ -142,8 +142,9 @@ Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Jiachao Gong, Mingda Wu, Ming Sun, Chao Zho
 </div>
 
 #### 📑 Other Papers
-- ``AAAI 2026`` [Efficient Reinforcement Learning for Zero-Shot Coordination in Evolving Games](https://arxiv.org/abs/2511.11083) 
+- ``AAAI 2026`` [Efficient Reinforcement Learning for Zero-Shot Coordination in Evolving Games](https://arxiv.org/abs/2511.11083) <span style="color:red"></span> <br>
 Bingyu Hui, Lebin Yu, Quanming Yao, **Yunpeng Qu**, Xudong Zhang, Jian Wang
+
 
 # 🎖 Honors and Awards
 - *2021,2022,2024* Comprehensive Scholarship for Ph.D. Student, Tsinghua University.
