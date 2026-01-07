@@ -71,7 +71,7 @@ My current research interests and past experience can be summarized as follows:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/qptv2.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ACM MM 2024**] [QPT V2: Masked Image Modeling Advances Visual Scoring](https://dl.acm.org/doi/png/10.1145/3664647.3680721) \\
+[**ACM MM 2024**] [QPT V2: Masked Image Modeling Advances Visual Scoring](https://dl.acm.org/doi/pdf/10.1145/3664647.3680721) \\
 Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Mingda Wu, Ming Sun, Chao Zhou, Jihong Zhu
 
 [**Code**](https://github.com/KeiChiTse/QPT-V2) &nbsp;
@@ -83,7 +83,7 @@ Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Mingda Wu, Ming Sun, Chao Zhou, Jihong Zhu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/kvqdata.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**CVPR 2024**] [KVQ: Kwai Video Quality Assessment for Short-form Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_KVQ_Kwai_Video_Quality_Assessment_for_Short-form_Videos_CVPR_2024_paper.png) \\
+[**CVPR 2024**] [KVQ: Kwai Video Quality Assessment for Short-form Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_KVQ_Kwai_Video_Quality_Assessment_for_Short-form_Videos_CVPR_2024_paper.pdf) \\
 Yiting Lu, Xin Li, Yajing Pei, Kun Yuan, Qizhi Xie, **Yunpeng Qu**, Ming Sun, Chao Zhou, Zhibo Chen
 
 [**Code**](https://lixinustc.github.io/projects/KVQ/) &nbsp;
@@ -95,7 +95,7 @@ Yiting Lu, Xin Li, Yajing Pei, Kun Yuan, Qizhi Xie, **Yunpeng Qu**, Ming Sun, Ch
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/score.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Preprint**] [Bridging Video Quality Scoring and Justification via Large Multimodal Models](https://arxiv.org/png/2506.21011) \\
+[**Preprint**] [Bridging Video Quality Scoring and Justification via Large Multimodal Models](https://arxiv.org/pdf/2506.21011) \\
 Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Jiachao Gong, Mingda Wu, Ming Sun, Chao Zhou, Jihong Zhu
 
 </div>
@@ -126,7 +126,7 @@ Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Jiachao Gong, Mingda Wu, Ming Sun, Chao Zho
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCL 2025</div><img src='images/cacd.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**IEEE Wireless Communications Letters**] [Channel-Aware Multi-Domain Feature Extraction for Automatic Modulation Recognition in MIMO Systems](https://arxiv.org/png/2512.04899) \\
+[**IEEE Wireless Communications Letters**] [Channel-Aware Multi-Domain Feature Extraction for Automatic Modulation Recognition in MIMO Systems](https://arxiv.org/pdf/2512.04899) \\
 **Yunpeng Qu**, Yazhou Sun, Bingyu Hui, Jintao Wang, Jian Wang
 
 </div>
@@ -135,14 +135,14 @@ Qizhi Xie, Kun Yuan, **Yunpeng Qu**, Jiachao Gong, Mingda Wu, Ming Sun, Chao Zho
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VTC 2025-Fall</div><img src='images/hifi.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**IEEE Conference on Vehicular Technology**] [Hierarchical Feature Integration for Multi-Signal Automatic Modulation Recognition](https://arxiv.org/png/2511.23258) \\
+[**IEEE Conference on Vehicular Technology**] [Hierarchical Feature Integration for Multi-Signal Automatic Modulation Recognition](https://arxiv.org/pdf/2511.23258) \\
 **Yunpeng Qu**, Yazhou Sun, Bingyu Hui, Jian Wang
 
 </div>
 </div>
 
 ### 📑 Other Papers
-- ``AAAI 2026`` [Efficient Reinforcement Learning for Zero-Shot Coordination in Evolving Games](https://arxiv.org/abs/2511.11083) <span style="color:red"></span> <br>
+- ``AAAI 2026`` [Efficient Reinforcement Learning for Zero-Shot Coordination in Evolving Games](https://arxiv.org/pdf/2511.11083) <span style="color:red"></span> <br>
 Bingyu Hui, Lebin Yu, Quanming Yao, **Yunpeng Qu**, Xudong Zhang, Jian Wang
 
 # 📖 Educations
